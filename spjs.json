@@ -1,0 +1,8 @@
+{
+  "src": "./src",
+  "build": "./build",
+  "modinfo": {
+    "name": "Example JavaScript Mod",
+    "description": "Requires JavaScript Framework. An example JavaScript mod."
+  }
+}
